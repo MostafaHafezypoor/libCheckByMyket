@@ -8,3 +8,8 @@
 وگرنه پیغام 
 *failure*
 چاپ خواهد شد
+
+
+**Bold Text**
+*Italic Text***Bold Text**
+*Italic Text*
